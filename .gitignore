@@ -4,3 +4,4 @@ client/.svelte-kit/
 
 server/node_modules/
 server/.env
+server/build/
